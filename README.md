@@ -2,7 +2,7 @@
 
 - Hugo Veríssimo
 
-- João Cardoso
+- [João Cardoso](https://github.com/jepe06)
 
 ## Files Description
 
@@ -22,7 +22,7 @@
 
 - `Model DTree.ipynb`: Builds the decision tree model, saved as `model_dtree.pkl`.
 
-- `Models Results.ipynb`: Compares the performance of the logistic regression, SVM, and decision tree models.
+- `Models (plots).ipynb`: Compares the performance of the logistic regression, SVM, and decision tree models.
 
 - `report` (folder): Contains the .tex and .bib files used to generate the final report.
 
